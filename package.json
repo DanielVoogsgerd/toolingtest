@@ -1,0 +1,22 @@
+{
+  "name": "toolingtest",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "gulp test:local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvoogsgerd/toolingtest.git"
+  },
+  "author": "Daniel Voogsgerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielvoogsgerd/toolingtest/issues"
+  },
+  "homepage": "https://github.com/danielvoogsgerd/toolingtest#readme"
+}
