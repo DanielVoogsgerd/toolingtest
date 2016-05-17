@@ -1,6 +1,5 @@
 language: node_js
 sudo: required
-dist: jessie
 addons:
     firefox: latest
     apt:
